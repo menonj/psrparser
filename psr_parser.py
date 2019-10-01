@@ -19,12 +19,14 @@ from pdfminer.image import ImageWriter
 
 from os import listdir
 
+# Comment: Extract using PDF Miner - This helps with parsing columnar data
 def extract_text_by_pdfminer(pdf_path):
     txt = io.StringIO()
     rsrcmgr = PDFResourceManager()
     device = TextConverter(rsrcmgr, txt, codec='UTF-8', laparams=LAParams(), imagewriter=None)
     fp = open(pdf_path, 'rb')
     interpreter = PDFPageInterpreter(rsrcmgr, device)
+    # We only need this data from the first page of the PSR
     for page in PDFPage.get_pages(fp):
         interpreter.process_page(page)
         break
