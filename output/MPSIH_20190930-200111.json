@@ -1,0 +1,38 @@
+{
+   "age": "27",
+   "arrestDate": "December 24, 2017",
+   "citizenship": "USA",
+   "criminalHistoryComputation": "IV",
+   "dateOfBirth": "04/01/1990",
+   "defenseCounsel": "January 1, 2019  Conspiracy to Distribute and Actual Distribution of Heroin, 21 U.S.C.",
+   "dependents": "Unknown",
+   "district": "DISTRICT OF IDAHO",
+   "docket": "009-19-CR-3333-01",
+   "education": "GED",
+   "fbiNumber": "888888A6",
+   "gender": "Male",
+   "judge": "The Honorable Learned Handsome",
+   "legalAddress": "c/o Defense Attorney",
+   "marshallNumber": "12345-055",
+   "name": "LARRY FINE",
+   "offense": [
+      "Conspiracy to Distribute and Actual Distribution of Heroin, 21 U.S.C. 846, 841(a) and (b)(1)(A)."
+   ],
+   "offenseCharacteristics": [
+      {
+         "baseOffense": "Base Offense Level:  The guideline for a violation of 21 U.S.C. \u00a7 846 is USSG \u00a72D1.1. The base offense level is 34, for those offenses involving at least ten kilograms of heroin. USSG \u00a72D1.1(a)(5).                                      34",
+         "baseOffenseComputation": "34",
+         "specificOffenseCharacteristics": [],
+         "totalOffenseComputation": "37"
+      }
+   ],
+   "otherDefendants": "Confidential memo will be filed",
+   "pacsNumber": "8976",
+   "penalty": [],
+   "preparedBy": "  John Augustus    U.S. Probation Officer      ",
+   "race": "Black",
+   "releaseStatus": "Detained since arrest.",
+   "sentenceDate": "January 1, 2019",
+   "ssn": "123-45-678",
+   "usAttorney": "J. Egar Hoover, Esq.                                  Denise Fenderbender, Esq.  Sentence Date: John Augustus U.S. Probation Officer"
+}

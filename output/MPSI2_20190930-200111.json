@@ -1,0 +1,56 @@
+{
+   "age": "34",
+   "arrestDate": "09/22/2016",
+   "citizenship": "U.S. Citizen",
+   "criminalHistoryComputation": "I",
+   "dateOfBirth": "10/30/1984",
+   "defenseCounsel": "(Retained) Antonio J. O'Donald 330 Northampton Street Chicago, IL 60604 aj@odonaldlaw.com",
+   "dependents": "Three",
+   "district": "DISTRICT OF CENTRAL ILLONOIS",
+   "docket": "0104 1:16CR799-001",
+   "education": "Graduate Equivalency",
+   "fbiNumber": "924973DG7",
+   "gender": "Male",
+   "judge": "The Honorable David Acosta United States District Judge",
+   "legalAddress": "75 Blues Brothers Street Chicago, Illinois 01109",
+   "marshallNumber": "100816-038",
+   "name": "DANNY DEFENDANT",
+   "offense": [
+      "Conspiracy to Distribute and Possess with Intent to Distribute Heroin  21 U.S.C. \u00a7 846, 21 U.S.C. \u00a7 841(b)(1)(A) and 21 U.S.C. \u00a7 841(a)(1)  10 years to life imprisonment/$10,000,000 fine  (Class A Felony) Date Offense Concluded: 09/22/2016  ",
+      "Possession of a Firearm in Furtherance of Drug Trafficking  18 U.S.C. \u00a7 924(c)(1)(A), 18 U.S.C. \u00a7 924(c)(1)(A)(i)   5 years to life imprisonment/ fine   (Class A Felony) Date Offense Concluded: 09/22/2016  Date of"
+   ],
+   "offenseCharacteristics": [
+      {
+         "baseOffense": "Base Offense Level: The guideline for 21 U.S.C. \u00a7 846 offenses is found in USSG \u00a72D1.1. According to \u00a72D1.1(a)(5), the base offense level is specified in the Drug Quantity  Table  set  forth  in  USSG  \u00a72D1.1(c).    Application  Note  8  of  the Commentary  to  \u00a72D1.1  indicates  that  in  cases  involving  different  controlled substances, each substance is converted to its Converted Drug Weight found in the Drug Equivalency Table, added together, and the final sum of the Converted Drug Weight determines the base offense level in the Drug Quantity Table.  In the instant matter, the defendant is accountable for a total of 7,002 grams of heroin (6 kilograms seized by authorities and 1,002 grams in heroin transactions) and 1,958 grams of fentanyl (in addition to $50,000 in drug proceeds seized by CSP on June 9, 2016).  The heroin is equal to 7,002 kilograms of Converted Drug Weight and the fentanyl is equal to 4,895 kilograms of Converted Drug Weight, for a total of 11,897 kilograms of Converted Drug Weight.  Pursuant to U.S.S.G. \u00a7 2D1.1(c)(3), for offenses involving at least 10,000 kilograms but less than 30,000 kilograms of Converted Drug Weight, the base offense level is 34.  USSG \u00a72D1.1(a)(5) & (c)(3). 34",
+         "baseOffenseComputation": "34",
+         "specificOffenseCharacteristics": [
+            {
+               "adjustment": "+2",
+               "description": "Specific Offense Characteristics: As the defendant maintained a premises for the purpose of \nmanufacturing or distributing a controlled substance, a 2-level increase  \n  is applied. USSG \u00a72D1.1(b)(12).   +2  "
+            }
+         ],
+         "totalOffenseComputation": "38"
+      },
+      {
+         "baseOffense": "Base Offense Level: The guideline for a violation of 18 U.S.C. \u00a7 924(c)(1)(A) is USSG \u00a72K2.4.  According to that guideline, if the defendant was convicted of violating Section 924(c) of Title 18, United States Code, the guideline sentence is the minimum term of imprisonment required by statute.  In the instant matter, the defendant has committed such a violation and the statutory minimum is 5 years.  Therefore, the guideline range is 5 years for this group, to be imposed consecutively to any other sentence imposed in this case for Group I.  Chapters Three (Adjustments) and Four (Criminal History and Criminal Livelihood) shall not apply to this count of conviction. USSG \u00a72K2.4(b). Offense Behavior Not Part of Relevant Conduct",
+         "baseOffenseComputation": 0,
+         "specificOffenseCharacteristics": [],
+         "totalOffenseComputation": 0
+      }
+   ],
+   "otherDefendants": "",
+   "pacsNumber": "2809543",
+   "penalty": [
+      "21 U.S.C. \u00a7 846",
+      "21 U.S.C. \u00a7 841(b)(1)(A)",
+      "21 U.S.C. \u00a7 841(a)(1)",
+      "18 U.S.C. \u00a7 924(c)(1)(A)",
+      "18 U.S.C. \u00a7 924(c)(1)(A)(i)"
+   ],
+   "preparedBy": "   Richard Reynolds                          Senior U.S. Probation Officer     ",
+   "race": "White",
+   "releaseStatus": "09/22/2016 to Present \u2013 In Federal Custody.",
+   "sentenceDate": "09/24/2019",
+   "ssn": "133-44-9234",
+   "usAttorney": "Neil L. Neverletter United States Courthouse 219 South Dearborn Street Chicago, IL 60604 Neil.Neverletter@usdoj.gov  Sentence Date: 09/24/2019"
+}

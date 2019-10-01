@@ -1,0 +1,45 @@
+{
+   "age": "18",
+   "arrestDate": "June 2, 2018",
+   "citizenship": "United States",
+   "criminalHistoryComputation": "",
+   "dateOfBirth": "January 10, 2000",
+   "defenseCounsel": "(Retained) Elias Brinkman, Esq Los Angeles, California 23400",
+   "dependents": "None",
+   "district": "CENTRAL DISTRICT OF CALIFORNIA",
+   "docket": "18-CR-3476-01",
+   "education": "High School Equivalency Diploma",
+   "fbiNumber": "8874324F07",
+   "gender": "Male",
+   "judge": "The Honorable Prudence Justice-Haven Chief United States District Judge",
+   "legalAddress": "Metropolitan Correctional Center 444 Broadway Los Angeles, California 23434",
+   "marshallNumber": "28764-038",
+   "name": "MADE MISTAKES",
+   "offense": [
+      "21 U.S.C. \u00a7\u00a7 841(a)(1) & 841(b)(1)(B), Distribution of Cocaine, a Class B Felony."
+   ],
+   "offenseCharacteristics": [
+      {
+         "baseOffense": "Base Offense Level: The guideline for a 21 U.S.C. 841(a) offense is U.S.S.G. \u00a7 2D1.1 which, in this case provides a base offense level contingent on the amount of cocaine involved in the offense, 2.1 kilograms.  That base offense level is, per U.S.S.G. \u00a7 2D1.1(c)(7) is 26.                                                            26",
+         "baseOffenseComputation": "26",
+         "specificOffenseCharacteristics": [
+            {
+               "adjustment": "2",
+               "description": "Specific Offense Characteristics: Since the defendant possessed a dangerous weapon, \nspecifically a stolen semiautomatic handgun, in relation to his drug offense U.S.S.G. \n2D1.1(b)(1) requires two offense levels be added.                 2 \n "
+            }
+         ],
+         "totalOffenseComputation": "25"
+      }
+   ],
+   "otherDefendants": "None.",
+   "pacsNumber": "2332323",
+   "penalty": [
+      "21 U.S.C. \u00a7\u00a7 841(a)(1)"
+   ],
+   "preparedBy": "  Sebastian Cole    United States Probation Officer  555-555-1234      ",
+   "race": "Black, Non-Hispanic",
+   "releaseStatus": "Remanded on June 3, 2018",
+   "sentenceDate": "January 31, 2019",
+   "ssn": "102-54-9244",
+   "usAttorney": "Stephen King, Esq Federal Courthouse, Room 234                1313 Mockingbird Lane Los Angeles, California 23400  Sentence Date:"
+}

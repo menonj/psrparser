@@ -1,0 +1,47 @@
+{
+   "age": "18",
+   "arrestDate": "June 2, 2018",
+   "citizenship": "United States",
+   "criminalHistoryComputation": "",
+   "dateOfBirth": "January 10, 2000",
+   "defenseCounsel": "(Retained) Elias Brinkman, Esq Los Angeles, California 23400",
+   "dependents": "None",
+   "district": "CENTRAL DISTRICT OF CALIFORNIA",
+   "docket": "18-CR-3476-01",
+   "education": "High School Equivalency Diploma",
+   "fbiNumber": "8874324F07",
+   "gender": "Male",
+   "judge": "The Honorable Daphne Schneider Chief United States District Judge",
+   "legalAddress": "Homeless",
+   "marshallNumber": "28764-038",
+   "name": "MADE A MISTAKE",
+   "offense": [
+      "21 U.S.C. \u00a7\u00a7 841(a)(1) & 841(b)(1)(B), Distribution of Cocaine, a Class B Felony.   ",
+      "  21 U.S.C. \u00a7\u00a7 841(a)(1) & 841(b)(1)(B), Distribution of Heroin, a Class B Felony."
+   ],
+   "offenseCharacteristics": [
+      {
+         "baseOffense": "Base Offense Level: The guideline for an 18 USC 371 offense is 2X1.1(a), which directs that the base offense level be derived from the guideline for the substantive offense, plus 4 any adjustments from such guideline for any intended offense conduct that can be established with reasonable certainty.  The substantive offense is a violation of 18 USC 1341, and the corresponding guideline is 2F1.1; Application Note 13 of that guideline instructs that where \u201cthe indictment or information setting forth the count of conviction . . . establishes an offense more aptly covered by another guideline, apply that guideline rather than 2F1.1.\u201d  In this case, the indictment establishes that the mail fraud was in furtherance of a bribery scheme, which is more aptly covered by Guideline 2B4.1(a), which provides a base offense level of 8. 8",
+         "baseOffenseComputation": "8",
+         "specificOffenseCharacteristics": [
+            {
+               "adjustment": "2",
+               "description": "Specific Offense Characteristics: Since the value of the bribe for this offense exceeds \n$5,000, the offense level is increased by 2 levels per Guidelines 2B4.1(b)(1) and \n2F1.1(b)(1)(C).                                   2 \n "
+            }
+         ],
+         "totalOffenseComputation": "10"
+      }
+   ],
+   "otherDefendants": "None.",
+   "pacsNumber": "2332323",
+   "penalty": [
+      "21 U.S.C. \u00a7\u00a7 841(a)(1)",
+      "21 U.S.C. \u00a7\u00a7 841(a)(1)"
+   ],
+   "preparedBy": "  James Taylor    United States Probation Officer  555-555-1234      ",
+   "race": "Black, Non-Hispanic",
+   "releaseStatus": "Remanded on June 3, 2018",
+   "sentenceDate": "January 31, 2019",
+   "ssn": "102-54-9244",
+   "usAttorney": "Stephen Perry, Esq Federal Courthouse, Room 234                1313 Mockingbird Lane Los Angeles, California 23400  Sentence Date:"
+}

@@ -1,0 +1,34 @@
+{
+   "arrestDate": "8/3/2015",
+   "criminalHistoryComputation": "",
+   "district": "EASTERN DISTRICT OF NEW YORK",
+   "docket": "0207 1:14CR00446-001",
+   "judge": "The Honorable Joan M. Azrack, United States District Judge",
+   "marshallNumber": "12345-053",
+   "name": "Steven Doe",
+   "offense": [
+      "Count 1:FELON IN POSSESSION OF A WEAPON18 U.S.C. \u00a7\u00a7 922(g)(1) and 924(a)(2)0 years to 10 years imprisonment/$250,000.00 fine(Class C Felony)"
+   ],
+   "offenseCharacteristics": [
+      {
+         "baseOffense": "Base Offense Level: The guideline for 18 U.S.C. \u00a7 922(g)(1) offenses is USSG \u00a72K2.1(a)(4)(A), which provides a base offense level of 20 if the defendant committed the instant offense subsequent to sustaining one felony conviction of either a crime of violence or a controlled substance offense. Specifically, in this case, the defendant sustained a conviction for Assault with Intent to Cause Physical Injury, which comprises a crime of violence as defined in USSG \u00a74B1.2(a)(1). As such, the base offense level is 20.  20",
+         "baseOffenseComputation": "20",
+         "specificOffenseCharacteristics": [
+            {
+               "adjustment": "2",
+               "description": "Specific Offense Characteristics:  As the firearm was stolen, a 2-level increase is\nwarranted, per USSG \u00a72K2.1( b)(4)(A).  \u00b12\n"
+            },
+            {
+               "adjustment": "+4",
+               "description": "Specific Offense Characteristics: As the firearm was used in connection with another\nfelony offense, a 4-level increase is warranted, per USSG \u00a72K2.1(b)(6)(B).  +4"
+            }
+         ],
+         "totalOffenseComputation": "23"
+      }
+   ],
+   "penalty": [
+      "18 U.S.C. \u00a7\u00a7 922(g)(1)"
+   ],
+   "releaseStatus": "The defendant was released on a $100,000 Personal Recognizance Bond\non August 3, 2015.",
+   "sentenceDate": "To Be Determined"
+}
